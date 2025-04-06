@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-const COOKIES = "CookieConsent={stamp:%27H+kbT3MrW7Jz7UDWRJZ/XAXATRAGlFm1ZE0lJThPTRgEapq8hnPSMA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:3%2Cutc:1712433407589%2Cregion:%27ca%27}; _ga_LZJGXR1W9E=GS1.1.1743264470.274.1.1743264471.0.0.0; _ga_4BKH6S3JTF=GS1.1.1743264470.139.1.1743264471.59.0.0; _ga=GA1.1.1988350405.1712693624; _ga_4BKH6S3JTF=deleted; __td_signed=true; _ga_B8S45G09HL=GS1.1.1736809966.13.1.1736810033.58.0.0; _gsid=e8776be1b1ca4d4b81aa5a0aede76eda; _tt_enable_cookie=1; _ttp=LIiV85VUR7DkC5eyX4s93yNhiDa.tt.1; _gcl_au=1.1.1228596969.1736441751; _td=a182f550-f748-47c1-8064-a9bd0df28cd4; buckler_r_id=b28a914c-5fc5-4371-94b9-a631ecbe5a59; buckler_id=EQ4PsPkd6IFwAaV5l8l2AIsf9ahx3LE9RPzBHtOV-HndB2vYoBZ5uhP8cDhgzmBb; buckler_praise_date=1743207776537"
+const COOKIES = ""
 
 const SAMPLE = `
 {
